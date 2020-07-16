@@ -1,0 +1,225 @@
+{
+    "Dziennik": [
+        {
+            "id": 1,
+            "nazwa": "Rozmowa z dworzaninem",
+            "opis": "Po krótkiej rozmowie z dworzaninem dowiedziałeś się,że poszukuje książki kucharskiej, którą wypożyczył z zamkowej biblioteki. Dworzanin boi się,że Książę Lubomirski dowie się o zgubie i wyprosi go z zamku."
+        },
+        {
+            "id": 2,
+            "nazwa": "Znalezienie książki",
+            "opis": "Znalazłeś zagubioną książkę kucharską pod fotelem."
+        },
+        {
+            "id": 3,
+            "nazwa": "Otrzymanie klucza",
+            "opis": "W podzięce za pomoc w znalezieniu zguby z zamkowej biblioteki dworzanin podarował Ci klucz do sali audiencyjnej."
+        },
+        {
+            "id": 4,
+            "nazwa": "Znalezienie herbu ze złota",
+            "opis": "Znalazłeś jeden z herbów - herb zrobiony ze złota."
+        },
+        {
+            "id": 5,
+            "nazwa": "Znalezienie herbu z brązu",
+            "opis": "Znalazłeś jeden z herbów - herb zrobiony z brązu."
+        },
+        {
+            "id": 6,
+            "nazwa": "Znalezienie herbu z platyny",
+            "opis": "Znalazłeś jeden z herbów - herb zrobiony z platyny."
+        },
+        {
+            "id": 7,
+            "nazwa": "Znalezienie struny",
+            "opis": "Znalazłeś brakującą strunę do lutni."
+        },
+        {
+            "id": 8,
+            "nazwa": "Znalezienie kartki ze strojeniem",
+            "opis": "Znalazłeś kartkę z informacją o strojeniu lutni."
+        },
+        {
+            "id": 9,
+            "nazwa": "Znalezienie kombinacji dźwięków na gobelinie",
+            "opis": "Znalazłeś kombinację dźwięków na gobelinie potrzebnych do zagrania melodii na lutni."
+        },
+        {
+            "id": 10,
+            "nazwa": "Zagranie prawidłowej melodii",
+            "opis": "Zagrałeś prawidłową melodię otwierającą szafę."
+        },
+        {
+            "id": 11,
+            "nazwa": "Znalezienie książki w szafie",
+            "opis": "Znalazłeś książkę z której dowiedziałeś się o tajemniczych rzymskich cyfrach znajdujących się na obrazach."
+        },
+        {
+            "id": 12,
+            "nazwa": "Znalezienie przełącznika w szafie",
+            "opis": "Znalazłeś przełącznik w szafie uchylający jeden z obrazów."
+        },
+        {
+            "id": 13,
+            "nazwa": "Znalezienie sejfu",
+            "opis": "Znalazłeś sejf ukryty za obrazem."
+        },
+        {
+            "id": 14,
+            "nazwa": "Znalezienie złotej róży",
+            "opis": "Znalazłeś zagubiona złotą różę z gobelinu."
+        }
+    ],
+    "Ekwipunek": [
+        {
+            "id": 1,
+            "nazwa": "Książka kucharska",
+            "opis": "Książka kucharska z książecej biblioteki poszukiwana przez dworzanina."
+        },
+        {
+            "id": 2,
+            "nazwa": "Klucz",
+            "opis": "Klucz do sali audiencyjnej."
+        },
+        {
+            "id": 3,
+            "nazwa": "Herb szlachecki ze złota",
+            "opis": "Herb Szreniawa bez Krzyża wykonany ze złota."
+        },
+        {
+            "id": 4,
+            "nazwa": "Herb szlachecki z brązu",
+            "opis": "Herb Szreniawa bez Krzyża wykonany z brązu."
+        },
+        {
+            "id": 5,
+            "nazwa": "Herb szlachecki z platyny",
+            "opis": "Herb Szreniawa bez Krzyża wykonany z platyny."
+        },
+        {
+            "id": 6,
+            "nazwa": "Struna",
+            "opis": "Brakująca struna do lutni."
+        },
+        {
+            "id": 7,
+            "nazwa": "Zwój z melodią",
+            "opis": "Zwój zawiera informacje odnośnie strojenia lutni oraz kolejność dźwięków: 1 2 1 3 2 5 4 6 2 5 1"
+        },
+        {
+            "id": 8,
+            "nazwa": "Tajemniczy zwój",
+            "opis": "Czyś godny skarby królewskie odnajdywać, czy historii kąsek miły rozpatrywać, namyśl się dobrze, do pamięci sięgnij i rozpatruj szczerze, uszereguj monarchów, przypatruj im się, ale w dobrej wierze.Rozglądaj się za tym co maltański krzyż nosi,choć po śmierci brata o tron Francji wnosi,godności w sercu nie ma żadną miarą,na tron po nim wzniosą niewiastę wspaniałą,spoglądnij na dłoń lewą przyjacielu,znak na niej przybliży Cię do celu.Wiele tytułów ten monarcha otrzymał,książę Finlandii, król Szwecji władze w Polsce trzymał,tron po Batorym w wyborach otrzymuje,siostrzeniec Anny w Polsce panuje,pod lewą dłonią ma znak, który otwiera,skorzysta ten mądrze, kto kolejność wybiera.Choć choroby jego ciała nieustannie się imały, spośród pięciu tylko on do dorosłości ostał się cały,chrzestna była królową, w kazaniach go polecano,choć bez carskiej korony- carem obwołano, niebo za nim w ramie wyraźnie pociemniało, znaku wypatruj pilnie, bo czasu za mało."
+        }
+    ],
+    "Wskazowka": [
+        {
+            "id": 1,
+            "nazwa": "Rozmowa z dworzaninem",
+            "opis": "Porozmawiaj z dworzaninem"
+        },
+        {
+            "id": 2,
+            "nazwa": "Poszukiwanie książki",
+            "opis": "Znajdź zagubioną książkę"
+        },
+        {
+            "id": 3,
+            "nazwa": "Znalezienie książki",
+            "opis": "Oddaj książkę dworzaninowi"
+        },
+        {
+            "id": 4,
+            "nazwa": "Herb",
+            "opis": "Znajdź trzy fragmenty herbu"
+        },
+        {
+            "id": 5,
+            "nazwa": "Brak struny",
+            "opis": "Znajdź strunę do lutni"
+        },
+        {
+            "id": 6,
+            "nazwa": "Znaleziona struna",
+            "opis": "Umieść strunę w lutni"
+        },
+        {
+            "id": 7,
+            "nazwa": "Struna w lutni",
+            "opis": "Zagraj melodię"
+        },
+        {
+            "id": 8,
+            "nazwa": "Niewłaściwa melodia",
+            "opis": "Znajdź nuty. Dowiedz się jakie nuty odpowiadają danej strunie"
+        },
+        {
+            "id": 9,
+            "nazwa": "Gobelin",
+            "opis": "Zagraj podane dźwięki na lutni"
+        },
+        {
+            "id": 10,
+            "nazwa": "Strojenie",
+            "opis": "Znalazłeś kartkę ze strojeniem lutni. Zajrzyj do ekwipunku"
+        },
+        {
+            "id": 11,
+            "nazwa": "Otwarcie szafy",
+            "opis": "Przeszukaj szafę"
+        },
+        {
+            "id": 12,
+            "nazwa": "Znalezienie książki",
+            "opis": "Przeczytaj książkę"
+        },
+        {
+            "id": 13,
+            "nazwa": "Znalezienie przełącznika",
+            "opis": "Zajrzyj za uchylony obraz"
+        },
+        {
+            "id": 14,
+            "nazwa": "Znalezienie sejfu",
+            "opis": "Otwórz sejf"
+        }
+    ],
+    "Ciekawostka": [
+        {
+            "id": 11,
+            "nazwa": "Zamek w Wiśniczu",
+            "opis": "Zamek w Wiśniczu stoi na północnym skraju cypla wcinającego się w dolinę Leksandrówki. Ma formę regularnej, czteroskrzydłowej budowli z dziedzińcem i czterema wieżami. Jego początki wiążą się z działalnością gospodarczą Kmitów herbu Szreniawa, którzy około połowy XIV w. rozpoczęli tworzenie wokół Wiśnicza klucza posiadłości ziemskich. Wzniesiony w tym czasie zamek pełnił funkcję obronnej rezydencji właścicieli.Fundatorem warownej siedziby był Jan Kmita, sprawujący w latach 70. XIV urzędy starosty sieradzkiego, ruskiego i krakowskiego. Po raz pierwszy istnienie zamku („castrum”) poświadczają rachunki żup bocheńskich z lat 1396."
+        },
+        {
+            "id": 12,
+            "nazwa": "Herb Szreniawa bez Krzyża",
+            "opis": "Herb Szreniawa bez Krzyża to odmiana herbu Drużyna, którym posługiwał się ród Lubomirskich. Przedstawia zakola rzeki Szreniawy w formie litery S białej barwy na czerwonym polu."
+        },
+        {
+            "id": 13,
+            "nazwa": "Obraz 1",
+            "opis": "Quis blandit turpis cursus in hac habitasse platea dictumst."
+        },
+        {
+            "id": 14,
+            "nazwa": "Obraz 2",
+            "opis": "Aliquam nulla facilisi cras fermentum."
+        },
+        {
+            "id": 21,
+            "nazwa": "Stanisław Lubomirski",
+            "opis": "Urodzony w 1583 roku, zmarł 17 czerwca 1649, syn Sebastiana Lubomirskiego. Był wojewodą krakowskim od 1638, wojewodą ruskim w latach 1629-1638, starostą generalnym krakowskim w latach 1638-1646 oraz marszałekim Trybunału Głównego Koronnego w 1625 roku. Właściciel zamku w Wiśniczu w latach 1613 - 1649."
+        },
+        {
+            "id": 22,
+            "nazwa": "Sebastian Lubomirski",
+            "opis": "Urodzony około 1546 roku, zmarł 23 czerwca 1613. Był pierwszym w rodzie senatorem Rzeczypospolitej. W roku 1593 kupił zamek w Wiśniczu za 85 tysięcy złotych."
+        },
+        {
+            "id": 23,
+            "nazwa": "Anna Pieniążkówna",
+            "opis": "Pierwsza żona Sebastiana Lubomirskiego, która wniosła mu w wianie 4 tysiące florenów. Zmarła w roku 1580."
+        }
+    ]
+}
